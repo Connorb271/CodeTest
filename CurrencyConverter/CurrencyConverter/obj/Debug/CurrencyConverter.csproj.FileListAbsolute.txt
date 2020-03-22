@@ -1,0 +1,7 @@
+D:\Work Projects\CodeTest\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+D:\Work Projects\CodeTest\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+D:\Work Projects\CodeTest\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+D:\Work Projects\CodeTest\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csprojAssemblyReference.cache
+D:\Work Projects\CodeTest\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+D:\Work Projects\CodeTest\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+D:\Work Projects\CodeTest\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
